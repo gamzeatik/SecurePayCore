@@ -79,9 +79,7 @@ Proje, para transferi işlemleri için modern bir web arayüzü içerir.
 
 ### Ekran Görüntüsü
 
-```
 <img width="1826" height="1155" alt="image" src="https://github.com/user-attachments/assets/ded74e89-0743-45fb-ab44-451d723212be" />
-```
 
 ---
 
