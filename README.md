@@ -432,3 +432,6 @@ SecurePay.Api/
 ├── appsettings.json
 └── SecurePay.Api.csproj
 ```
+
+<img width="1826" height="1155" alt="image" src="https://github.com/user-attachments/assets/ded74e89-0743-45fb-ab44-451d723212be" />
+
